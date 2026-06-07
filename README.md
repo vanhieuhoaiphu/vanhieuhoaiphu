@@ -1,16 +1,89 @@
-### Hi there 👋
+# Hi there 👋, I'm Hieu
 
-<!--
-**vanhieuhoaiphu/vanhieuhoaiphu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Engineer | React.js | TypeScript | Next.js
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://img.shields.io/badge/Frontend-Engineer-blue" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-green" />
+  <img src="https://img.shields.io/badge/Open%20to-Learning-orange" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 💻 Frontend Engineer with 4+ years of experience
+* ⚛️ Passionate about React ecosystem and modern web technologies
+* 🤖 Leveraging AI tools to improve development productivity
+* 🚀 Interested in SaaS, AI products, and scalable architectures
+* 🌱 Always learning and exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+</p>
+
+### AI Productivity
+
+<p>
+  🤖 ChatGPT &nbsp;
+  🚀 GitHub Copilot &nbsp;
+  ⚡ Cursor AI &nbsp;
+  🧠 Claude &nbsp;
+</p>
+
+* AI-assisted Development
+* AI-assisted Testing
+* Code Review & Refactoring
+* Prompt Engineering
+* Automated Documentation
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/le-van-hieu-004535277/
+* 📧 Email: vanhieuhoaiphu@gmail.com
+* 🌐 Portfolio: 
+
+---
+
+### ⚡ Fun Fact
+
+> I use AI not to replace coding, but to accelerate learning, testing, debugging, and delivering better products.
